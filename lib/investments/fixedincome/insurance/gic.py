@@ -1,7 +1,6 @@
 
 
 class GIC:
-    ''' A base class for instantiating objects of various flavors of GIC's based on a holdings template json file '''
 
     def __init__(self) -> None:
         pass
@@ -9,13 +8,13 @@ class GIC:
 
 
 
-class SAGIC:
+class SeparateAccount:
 
     def __init__(self) -> None:
         pass
 
 
-class TRADGIC:
+class Traditional:
 
     def __init__(self) -> None:
         pass

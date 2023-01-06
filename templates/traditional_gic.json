@@ -1,0 +1,20 @@
+{
+    "investment_type":"Traditional_GIC",
+    "uid":"123456789",
+    "name":"Investment Name",
+    "issuer":"Issuer Name",
+    "purchase_date":"",
+    "maturity_date":"",
+    "payment_schedule_type":"Bullet",
+    "payment_dates":{
+
+    },
+    "payment_amounts":{
+
+    }
+
+
+
+
+
+}
